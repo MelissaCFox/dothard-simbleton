@@ -1,0 +1,59 @@
+
+
+
+.active-businesses {
+    background-color: rgb(135, 209, 184);
+}
+
+.business-list{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 20px;
+
+}
+
+.business {
+    border: solid black 1px;
+    width: 150px;
+    padding: 10px;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.newYork-businesses {
+    background-color: burlywood;
+}
+
+.new-york-business-list {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 20px;
+}
+
+.manufacturing-businesses {
+    background-color: darkgrey;
+}
+
+.manufacturing-list {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 20px;
+}
+
+.agent-info {
+    background-color: darkseagreen;
+}
+
+.agent-details {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 20px;
+}
+
+.agentObj-info {
+    border: solid black 1px;
+    width: 150px;
+    padding: 10px;
+    justify-content: space-between;
+    text-align: center;
+}
